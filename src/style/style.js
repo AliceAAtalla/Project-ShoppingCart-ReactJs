@@ -53,7 +53,6 @@ export const NavBar = styled.nav`
   `}
 `;
 
-
 export const Section = styled.section`
   display: flex;
   
@@ -238,4 +237,12 @@ export const Button = styled.button`
     border: 2px solid #3c096c;
     border-radius: 3px;
   `};
+`;
+
+const icon = 'https://img.icons8.com/doodle/48/000000/linkedin--v2.png';
+export const LinkedinIcon = styled.img.attrs({ src: icon, alt: 'Linkedin Icon' })`
+  width: 30px;
+  margin-right: 30px;
+  margin-left: 5px;
+  vertical-align: center;
 `;
