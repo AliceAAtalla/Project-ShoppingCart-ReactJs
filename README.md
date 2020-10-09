@@ -4,14 +4,14 @@
 
 ### **Technologies, libs and frameworks:**
 
-* React Js
-* Javascript
-* API Mercado Livre
-* React Router Dom
-* React-Star
-* CSS
-* Styled Components
-* ESLint
+* [Javascript](https://www.javascript.com/) \- Programming language;
+* [ReactJS](https://reactjs.org/) \- The web framework used;
+* [React Router Dom](https://reactrouter.com/web/guides/) \- Router libraries for React;
+* [React-Star](https://www.npmjs.com/package/react-stars) \- A simple star rating component for your React projects;
+* [CSS Pure](https://developer.mozilla.org/en-US/docs/Web/CSS) \- Cascading Style Sheets \(CSS\) is a style sheet language;
+* [Styled Components](https://styled-components.com/) \- Utilising tagged template literals and the power of CSS;
+* [ESLint](https://eslint.org/) \- Find and fix problems in your JavaScript code;
+* [API Mercado Livre](https://api.mercadolibre.com/sites/MLB/)
 
 * [Link to requirements](https://github.com/tryber/sd-04-project-frontend-online-store-07)
 
